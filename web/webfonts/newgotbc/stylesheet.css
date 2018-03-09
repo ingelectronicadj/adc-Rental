@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'newgotbc';
+	src: url('newgotbc-webfont.eot');
+	src: url('newgotbc-webfont.eot?#iefix') format('embedded-opentype'),
+		url('newgotbc-webfont.woff') format('woff'),
+		url('newgotbc-webfont.ttf') format('truetype'),
+		url('newgotbc-webfont.svg') format('svg');
+}

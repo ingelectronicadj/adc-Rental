@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'newsgotc';
+	src: url('newsgotc-webfont.eot');
+	src: url('newsgotc-webfont.eot?#iefix') format('embedded-opentype'),
+		url('newsgotc-webfont.woff') format('woff'),
+		url('newsgotc-webfont.ttf') format('truetype'),
+		url('newsgotc-webfont.svg') format('svg');
+}

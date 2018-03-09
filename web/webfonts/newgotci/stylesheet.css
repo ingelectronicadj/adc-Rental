@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'newgotci';
+	src: url('newgotci-webfont.eot');
+	src: url('newgotci-webfont.eot?#iefix') format('embedded-opentype'),
+		url('newgotci-webfont.woff') format('woff'),
+		url('newgotci-webfont.ttf') format('truetype'),
+		url('newgotci-webfont.svg') format('svg');
+}

@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'adam cg pro';
+	src: url('adam.cg_pro-webfont.eot');
+	src: url('adam.cg_pro-webfont.eot?#iefix') format('embedded-opentype'),
+		url('adam.cg_pro-webfont.woff') format('woff'),
+		url('adam.cg_pro-webfont.ttf') format('truetype'),
+		url('adam.cg_pro-webfont.svg') format('svg');
+}
